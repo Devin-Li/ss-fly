@@ -20,3 +20,6 @@ flyzy小站交流群：http://t.me/flyzyxiaozhan
 
 ### VPS信息汇总
 [VPS GO](https://www.vpsgo.com)
+
+这里还有个server端的安装方法
+https://shadowsocks.org/en/download/servers.html
